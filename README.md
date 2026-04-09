@@ -70,6 +70,9 @@ Skupić się na produktach o wysokiej marży
 Optymalizować koszty w mniej rentownych kategoriach
 Dostosować strategię cenową
 Monitorować rentowność produktów
+
+----------------------------
+
 🛠 Tools / Narzędzia
 Power BI
 DAX
