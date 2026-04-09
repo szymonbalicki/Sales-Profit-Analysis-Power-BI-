@@ -75,8 +75,6 @@ Power BI
 DAX
 📸 Dashboard Preview
 
-sc1 sc2 
+| ![Overview](Overview.png) | ![Product Analysis](Product_Analysis.png) | 
 
-🔗 Live Dashboard
-
-👉 View Dashboard
+🔗 [View Live Dashboard]()
