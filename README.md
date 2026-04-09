@@ -80,4 +80,4 @@ DAX
 
  ![Overview](Overview.png)  ![Product Analysis](Product_Analysis.png) 
 
-🔗 [View Live Dashboard]()
+🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzUyNTUyOWYtNWMyYS00MzQ2LWE4MmEtYWQzMTQxZTdmMDM4IiwidCI6ImU4MGE2MjdmLWVmOTQtNGFhOS04MmQ2LWM3ZWM5Y2ZjYTMyNCIsImMiOjh9)
