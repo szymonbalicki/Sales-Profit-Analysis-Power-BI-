@@ -46,15 +46,21 @@ Analiza rentowności produktów (wykres sprzedaż vs zysk)
 EN:
 
 Identified Technology as the most profitable category (17.4% margin, 50.8% of total profit), supporting strategic resource reallocation
+
 Detected critical underperformance in Furniture (2.49% margin despite high sales volume), indicating structural profitability risk
+
 Highlighted revenue concentration risk, where a single product (Canon imageCLASS 2200) generates 8.8% of total profit
+
 Recommended shift from revenue-based KPIs to margin-focused reporting to improve decision-making quality
 
 PL:
 
 Zidentyfikowano kategorię Technology jako najbardziej rentowną (17,4% marży, 50,8% całkowitego zysku), co wskazuje na zasadność alokacji zasobów
+
 Wykryto niską rentowność kategorii Furniture (2,49% marży mimo wysokiego wolumenu sprzedaży), co wskazuje na ryzyko strukturalne
+
 Zidentyfikowano ryzyko koncentracji przychodów, gdzie jeden produkt generuje 8,8% całkowitego zysku
+
 Rekomendowano przejście z KPI opartego na przychodach na raportowanie oparte na marży w celu poprawy jakości decyzji biznesowych
 
 
