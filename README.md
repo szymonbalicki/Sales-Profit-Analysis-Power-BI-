@@ -1,69 +1,61 @@
 # Sales & Profitability Analysis (Power BI)
 # Analiza sprzedaży i rentowności (Power BI)
 
-EN Project Overview
+🧩 Project Overview / Opis projektu
 
-This project analyzes sales and profitability across products and categories using Power BI.
-The goal was to identify key revenue drivers, profitability patterns, and business optimization opportunities.
+EN:
+Designed and developed a business profitability analysis system in Microsoft Power BI to identify key revenue drivers, margin structure, and profitability risks across product categories. The project focused on delivering actionable insights for data-driven business decisions.
 
-🇵🇱 Opis projektu
-
-Projekt analizuje sprzedaż i rentowność produktów oraz kategorii w Power BI.
-Celem było zidentyfikowanie kluczowych driverów biznesowych oraz obszarów optymalizacji.
+PL:
+Zaprojektowałem i stworzyłem system analizy rentowności biznesu w Microsoft Power BI w celu identyfikacji kluczowych driverów przychodów, struktury marży oraz ryzyk rentowności w różnych kategoriach produktowych. Projekt koncentrował się na dostarczaniu rekomendacji wspierających decyzje biznesowe oparte na danych.
 
 ⚙️ Data Preparation / Przygotowanie danych
 
 EN:
 
 Data cleaning and transformation
-Creation of DAX measures (Sales, Profit, Margin)
-Data modeling
+Data modeling (star schema)
+DAX measures (Sales, Profit, Margin, Average Order Value)
 
 PL:
 
 Czyszczenie i transformacja danych
-Tworzenie miar DAX (Sales, Profit, Margin)
-Modelowanie danych
+Modelowanie danych (schemat gwiazdy)
+Tworzenie miar DAX (sprzedaż, zysk, marża, średnia wartość zamówienia)
+
 📊 Dashboard Features / Funkcjonalności
 
 EN:
 
-KPI: Total Sales, Total Profit, Profit Margin, Avg Order Value
-Trend analysis (time series)
-Category performance analysis
+KPI: Total Sales, Profit, Profit Margin, Average Order Value
+Time-series trend analysis
+Category-level performance analysis
 Top products by Sales and Profit
-Product-level analysis (scatter plot: Sales vs Profit)
+Product profitability analysis (Sales vs Profit scatter plot)
 
 PL:
 
 KPI: sprzedaż, zysk, marża, średnia wartość zamówienia
-Analiza trendu w czasie
-Analiza kategorii
-Top produkty (sprzedaż i zysk)
-Analiza produktów (scatter plot)
+Analiza trendów w czasie
+Analiza kategorii produktowych
+Top produkty według sprzedaży i zysku
+Analiza rentowności produktów (wykres sprzedaż vs zysk)
 
-🔍 Key Insights / Kluczowe wnioski
+🔍 Key Business Insights / Kluczowe wnioski biznesowe
 
 EN:
 
-Scale Technology investment: With a 17.4% margin and 50.8% of total profit, Technology is the only category with proven ROI. Budget reallocation from Furniture to Technology should be the first strategic move.
-
-Diagnose Furniture urgently: A 2.49% margin on high sales volume means the category is barely breaking even — a single logistics disruption could push it into loss. Cost audit or category exit should be evaluated within one quarter.
-
-Reduce single-product dependency: Canon imageCLASS 2200 drives 8.8% of total company profit alone. This concentration is a business risk — identify and develop 3–5 additional high-margin products to diversify the profit base.
-
-Implement margin-first reporting: Replace revenue-focused KPI dashboards with margin-weighted views. Decisions based purely on sales volume — as Furniture demonstrates — can mask serious profitability problems.
-
+Identified Technology as the most profitable category (17.4% margin, 50.8% of total profit), supporting strategic resource reallocation
+Detected critical underperformance in Furniture (2.49% margin despite high sales volume), indicating structural profitability risk
+Highlighted revenue concentration risk, where a single product (Canon imageCLASS 2200) generates 8.8% of total profit
+Recommended shift from revenue-based KPIs to margin-focused reporting to improve decision-making quality
 
 PL:
 
-Pilna diagnoza Furniture: Marża 2,49% przy wysokim wolumenie sprzedaży oznacza, że kategoria ledwo wychodzi na zero — jedno zakłócenie logistyczne może zepchnąć ją na stratę. W ciągu jednego kwartału należy przeprowadzić audyt kosztów lub rozważyć wyjście z kategorii.
-
-Zmniejsz zależność od jednego produktu: Canon imageCLASS 2200 generuje samodzielnie 8,8% całego zysku firmy. To ryzyko koncentracji — zidentyfikuj i rozwiń 3–5 dodatkowych produktów o wysokiej marży, aby zdywersyfikować bazę zysku.
-
-Zmniejsz zależność od jednego produktu: Canon imageCLASS 2200 generuje samodzielnie 8,8% całego zysku firmy. To ryzyko koncentracji — zidentyfikuj i rozwiń 3–5 dodatkowych produktów o wysokiej marży, aby zdywersyfikować bazę zysku.
-
-Wprowadź raportowanie oparte na marży: Zastąp dashboardy skupione na przychodach widokami ważonymi marżą. Decyzje oparte wyłącznie na wolumenie sprzedaży — czego najlepszym dowodem jest Furniture — mogą maskować poważne problemy z rentownością.
+Zidentyfikowano kategorię Technology jako najbardziej rentowną (17,4% marży, 50,8% całkowitego zysku), co wskazuje na zasadność alokacji zasobów
+Wykryto niską rentowność kategorii Furniture (2,49% marży mimo wysokiego wolumenu sprzedaży), co wskazuje na ryzyko strukturalne
+Zidentyfikowano ryzyko koncentracji przychodów, gdzie jeden produkt generuje 8,8% całkowitego zysku
+Rekomendowano przejście z KPI opartego na przychodach na raportowanie oparte na marży w celu poprawy jakości decyzji biznesowych
 
 
 ----------------------------
