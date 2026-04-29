@@ -1,4 +1,5 @@
-# Sales-Profit-Analysis-Power-BI-
+# Sales & Profitability Analysis (Power BI)
+# Analiza sprzedaży i rentowności (Power BI)
 
 EN Project Overview
 
