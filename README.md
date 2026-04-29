@@ -59,7 +59,7 @@ Zidentyfikowano kategorię Technology jako najbardziej rentowną (17,4% marży, 
 
 Wykryto niską rentowność kategorii Furniture (2,49% marży mimo wysokiego wolumenu sprzedaży), co wskazuje na ryzyko strukturalne
 
-Zidentyfikowano ryzyko koncentracji przychodów, gdzie jeden produkt generuje 8,8% całkowitego zysku
+Zidentyfikowano ryzyko koncentracji przychodów, gdzie jeden produkt (Canon imageCLASS 2200) generuje 8,8% całkowitego zysku
 
 Rekomendowano przejście z KPI opartego na przychodach na raportowanie oparte na marży w celu poprawy jakości decyzji biznesowych
 
